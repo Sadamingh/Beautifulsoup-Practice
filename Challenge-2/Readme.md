@@ -1,4 +1,4 @@
-# Challenge #1
+# Challenge #2
 
 Find all the titles of the index.html file with a file named ```get_title_all.py```.
 
