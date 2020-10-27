@@ -1,0 +1,1 @@
+The number of words in the h2 tag is: 9
