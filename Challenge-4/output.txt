@@ -1,0 +1,2 @@
+The number of titles in index.html is: 3
+The number of paragraphs in index.html is: 4
