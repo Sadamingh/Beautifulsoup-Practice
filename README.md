@@ -1,7 +1,7 @@
 # Beautifulsoup-Practice
 
 
-This is a repo with the practices of Beautifulsoup. Note that there's no single solution for each of those challenges and the python files in all these challenges are just examples to solve the problem. Free free to use any other method to solve the problem.
+This is a repo with the practices of Beautifulsoup. Note that there's no single solution for each of those challenges and the python files in all these challenges are just examples to solve the problem. Feel free to use any other methods to solve the problem.
 
 
 For further information, please refer to the [documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) of the beautifulsoup.
