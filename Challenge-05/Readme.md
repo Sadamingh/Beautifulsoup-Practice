@@ -1,6 +1,6 @@
 # Challenge #5
 
-Find the number of the titles and the paragraphs in the index.html file with a file named ```count_word.py```.
+Find the number of the words in the text under all h2 tags in the index.html file with a file named ```count_words.py```.
 
 The output should be 
 ```
