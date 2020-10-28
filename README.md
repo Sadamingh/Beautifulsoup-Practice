@@ -1,6 +1,11 @@
 # Beautifulsoup-Practice
 
-This is a repo of practices of Beautifulsoup.
+
+This is a repo with the practices of Beautifulsoup. Note that there's no single solution for each of those challenges and the python files in all these challenges are just examples to solve the problem. Free free to use any other method to solve the problem.
+
+
+For further information, please refer to the [documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) of the beautifulsoup.
+
 
 | Challenge | Goal |
 | --------- | ---- |
@@ -15,3 +20,8 @@ This is a repo of practices of Beautifulsoup.
 | [09](https://github.com/Sadamingh/Beautifulsoup-Practice/tree/main/Challenge-09) | get texts of a specific tag |
 | [10](https://github.com/Sadamingh/Beautifulsoup-Practice/tree/main/Challenge-10) | get texts by class |
 | [11](https://github.com/Sadamingh/Beautifulsoup-Practice/tree/main/Challenge-11) | get texts by id |
+| [12](https://github.com/Sadamingh/Beautifulsoup-Practice/tree/main/Challenge-12) | formatiing a html code |
+| [13](https://github.com/Sadamingh/Beautifulsoup-Practice/tree/main/Challenge-13) | get texts by the path of its tag |
+| [14](https://github.com/Sadamingh/Beautifulsoup-Practice/tree/main/Challenge-14) | get images |
+| [15](https://github.com/Sadamingh/Beautifulsoup-Practice/tree/main/Challenge-15) | get table |
+
