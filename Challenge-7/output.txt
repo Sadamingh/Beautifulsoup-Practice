@@ -1,0 +1,1 @@
+['a', 'body', 'br', 'code', 'col', 'colgroup', 'dd', 'dl', 'dt', 'em', 'h2', 'h3', 'head', 'hr', 'html', 'li', 'meta', 'ol', 'p', 'span', 'strong', 'table', 'tbody', 'td', 'th', 'title', 'tr', 'ul']
